@@ -21,6 +21,8 @@ elif choice == 2:
 
 
 print("Input data: ", data)
+
+"""[Uncomment the functions to see it in play]"""
 # dummy_bubble_sort(data)
 traditional_bubble_sort(data)
 # optimized_bubble_sort(data)

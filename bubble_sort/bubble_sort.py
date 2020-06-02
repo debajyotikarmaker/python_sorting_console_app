@@ -33,6 +33,7 @@ def traditional_bubble_sort(arr):
                 arr[j], arr[j+1] = arr[j+1], arr[j]
             print("\tj=", j, "\tarr=", arr[0:len(arr)-i-1])
         printHorizontalLine(dashLen)
+
     print("Sorted List: ", arr)
 
 
