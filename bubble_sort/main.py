@@ -20,8 +20,8 @@ data = []
 #         data.append(randint(1, 1000))
 
 
-data = [5, 3, 1, 9, 8, 2, 4, 7]
+data = [5, 3, 1, 2, 4]
 print("Input data: ", data)
-dummy_bubble_sort(data)
-# traditional_bubble_sort(data)
+# dummy_bubble_sort(data)
+traditional_bubble_sort(data)
 # optimized_bubble_sort(data)
