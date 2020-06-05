@@ -17,24 +17,14 @@
 |   Content    |  _Long Cell_  |              |
 |   Content    |   **Cell**    |         Cell |
 
-| Algorithm      |          | Time Complexity |           | Space Complexity |
-| -------------- | :------: | :-------------: | :-------: | :--------------: |
-|                | **Best** |   **Average**   | **Worst** |    **Worst**     |
-| Selection Sort |          |                 |           |                  |
-| Bubble Sort    |          |                 |           |                  |
-| Insertion Sort |          |                 |           |                  |
-| Merge Sort     |          |                 |           |                  |
-| Quick Sort     |          |                 |           |                  |
-| Heap Sort      |          |                 |           |                  |
-| Counting Sort  |          |                 |           |                  |
-| Radix Sort     |          |                 |           |                  |
-
-|              Stage | Direct Products | ATP Yields |
-| -----------------: | --------------: | ---------: |
-|         Glycolysis |           2 ATP |            |
-|                 ^^ |          2 NADH |   3--5 ATP |
-| Pyruvaye oxidation |          2 NADH |      5 ATP |
-|  Citric acid cycle |           2 ATP |            |
-|                 ^^ |          6 NADH |     15 ATP |
-|                 ^^ |          2 FADH |      3 ATP |
-|         30--32 ATP |                 |            |
+| Algorithm      |          | _Time Complexity_ |           | Space Complexity |
+| -------------- | :------: | :---------------: | :-------: | :--------------: |
+|                | **Best** |    **Average**    | **Worst** |    **Worst**     |
+| Selection Sort |          |                   |           |                  |
+| Bubble Sort    |          |                   |           |                  |
+| Insertion Sort |          |                   |           |                  |
+| Merge Sort     |          |                   |           |                  |
+| Quick Sort     |          |                   |           |                  |
+| Heap Sort      |          |                   |           |                  |
+| Counting Sort  |          |                   |           |                  |
+| Radix Sort     |          |                   |           |                  |
