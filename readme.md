@@ -15,7 +15,7 @@
 | Algorithm                                                                                                    |                                    | Time Complexity |           | Space Complexity |
 | ------------------------------------------------------------------------------------------------------------ | :--------------------------------: | :-------------: | :-------: | :--------------: |
 |                                                                                                              |              **Best**              |   **Average**   | **Worst** |    **Worst**     |
-| [Selection Sort](https://github.com/debajyotikarmaker/python_sorting_console_app/tree/master/selection_sort) | ![omega](images/omega_n_log_n.svg) |                 |           |                  |
+| [Selection Sort](https://github.com/debajyotikarmaker/python_sorting_console_app/tree/master/selection_sort) | ![omega](images/omega_n_log_n.gif) |                 |           |                  |
 | Bubble Sort                                                                                                  |                                    |                 |           |                  |
 | Insertion Sort                                                                                               |                                    |                 |           |                  |
 | Merge Sort                                                                                                   |                                    |                 |           |                  |
