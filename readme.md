@@ -12,14 +12,14 @@
 - Counting Sort
 - Radix Sort
 
-| Algorithm                                                                                                    |                                    | Time Complexity |           | Space Complexity |
-| ------------------------------------------------------------------------------------------------------------ | :--------------------------------: | :-------------: | :-------: | :--------------: |
-|                                                                                                              |              **Best**              |   **Average**   | **Worst** |    **Worst**     |
-| [Selection Sort](https://github.com/debajyotikarmaker/python_sorting_console_app/tree/master/selection_sort) | ![omega](images/omega_n_log_n.svg) |                 |           |                  |
-| Bubble Sort                                                                                                  |                                    |                 |           |                  |
-| Insertion Sort                                                                                               |                                    |                 |           |                  |
-| Merge Sort                                                                                                   |                                    |                 |           |                  |
-| Quick Sort                                                                                                   |                                    |                 |           |                  |
-| Heap Sort                                                                                                    |                                    |                 |           |                  |
-| Counting Sort                                                                                                |                                    |                 |           |                  |
-| Radix Sort                                                                                                   |                                    |                 |           |                  |
+| Algorithm                                                                                                    |                                                                          | Time Complexity |           | Space Complexity |
+| ------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------: | :-------------: | :-------: | :--------------: |
+|                                                                                                              |                                 **Best**                                 |   **Average**   | **Worst** |    **Worst**     |
+| [Selection Sort](https://github.com/debajyotikarmaker/python_sorting_console_app/tree/master/selection_sort) | ![omega](https://latex.codecogs.com/svg.latex?%5COmega%28n%20log%20n%29) |                 |           |                  |
+| Bubble Sort                                                                                                  |                                                                          |                 |           |                  |
+| Insertion Sort                                                                                               |                                                                          |                 |           |                  |
+| Merge Sort                                                                                                   |                                                                          |                 |           |                  |
+| Quick Sort                                                                                                   |                                                                          |                 |           |                  |
+| Heap Sort                                                                                                    |                                                                          |                 |           |                  |
+| Counting Sort                                                                                                |                                                                          |                 |           |                  |
+| Radix Sort                                                                                                   |                                                                          |                 |           |                  |
