@@ -12,19 +12,14 @@
 - Counting Sort
 - Radix Sort
 
-| First Header | Second Header | Third Header |
-| :----------: | :-----------: | -----------: |
-|   Content    |  _Long Cell_  |              |
-|   Content    |   **Cell**    |         Cell |
-
-| Algorithm      |          | _Time Complexity_ |           | Space Complexity |
-| -------------- | :------: | :---------------: | :-------: | :--------------: |
-|                | **Best** |    **Average**    | **Worst** |    **Worst**     |
-| Selection Sort |          |                   |           |                  |
-| Bubble Sort    |          |                   |           |                  |
-| Insertion Sort |          |                   |           |                  |
-| Merge Sort     |          |                   |           |                  |
-| Quick Sort     |          |                   |           |                  |
-| Heap Sort      |          |                   |           |                  |
-| Counting Sort  |          |                   |           |                  |
-| Radix Sort     |          |                   |           |                  |
+| Algorithm                                                                                                    |                                                                             | Time Complexity |           | Space Complexity |
+| ------------------------------------------------------------------------------------------------------------ | :-------------------------------------------------------------------------: | :-------------: | :-------: | :--------------: |
+|                                                                                                              |                                  **Best**                                   |   **Average**   | **Worst** |    **Worst**     |
+| [Selection Sort](https://github.com/debajyotikarmaker/python_sorting_console_app/tree/master/selection_sort) | ![omega](https://latex.codecogs.com/gif.download?%5COmega%28n%20log%20n%29) |                 |           |                  |
+| Bubble Sort                                                                                                  |                                                                             |                 |           |                  |
+| Insertion Sort                                                                                               |                                                                             |                 |           |                  |
+| Merge Sort                                                                                                   |                                                                             |                 |           |                  |
+| Quick Sort                                                                                                   |                                                                             |                 |           |                  |
+| Heap Sort                                                                                                    |                                                                             |                 |           |                  |
+| Counting Sort                                                                                                |                                                                             |                 |           |                  |
+| Radix Sort                                                                                                   |                                                                             |                 |           |                  |
